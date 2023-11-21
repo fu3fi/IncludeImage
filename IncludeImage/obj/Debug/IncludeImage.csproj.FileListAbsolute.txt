@@ -1,0 +1,7 @@
+C:\Users\Al\Desktop\c#\IncludeImage\IncludeImage\IncludeImage\bin\Debug\IncludeImage.exe.config
+C:\Users\Al\Desktop\c#\IncludeImage\IncludeImage\IncludeImage\bin\Debug\IncludeImage.exe
+C:\Users\Al\Desktop\c#\IncludeImage\IncludeImage\IncludeImage\bin\Debug\IncludeImage.pdb
+C:\Users\Al\Desktop\c#\IncludeImage\IncludeImage\IncludeImage\obj\Debug\IncludeImage.csproj.AssemblyReference.cache
+C:\Users\Al\Desktop\c#\IncludeImage\IncludeImage\IncludeImage\obj\Debug\IncludeImage.csproj.CoreCompileInputs.cache
+C:\Users\Al\Desktop\c#\IncludeImage\IncludeImage\IncludeImage\obj\Debug\IncludeImage.exe
+C:\Users\Al\Desktop\c#\IncludeImage\IncludeImage\IncludeImage\obj\Debug\IncludeImage.pdb
